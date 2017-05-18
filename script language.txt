@@ -1,0 +1,52 @@
+EVENTS:
+
+new event as [onClick/chatAction/always/onkeypress/chatevent] = start new event
+add event [name] = add current event to adventure plus plus
+event.name = name of the event
+event.deleteAfterRun = delete this event after its actions are successful
+event.resetAfterRun = reset this event after its actions are successful (only applies to timers)
+event.time = how much time should elapse before the event is triggered
+event.logic = any logic that should be true before the event will run its actions (see logic section).
+event.actions = events that will be executed if the logic is all true or if there is no logic
+events.falseactions = events that will be executed if the logic section is false.  note that these events will only be executed if all logic is true except the last logic sstatement.
+
+SYSTEM VARIABLES:
+
+mouseX = x coordinate of the mouse
+mouseY = Y coordinate of the mouse
+mousePos = X,Y coordinate of the mouse
+keypressed = 
+
+
+USER VARIABLES:
+
+set or append [variable name] [value]
+	[value]: 
+		pointingAt|[attribute]
+			[attribute]: 
+				name
+		mouseX
+		mouseY
+		mousePos
+		keypressed
+		keyreleased
+		variable|[variable name]
+			[name]:user defined variable
+
+[value]:
+
+pointingAt|
+
+LOGIC: 
+
+
+
+
+Entities:
+
+	entity.name
+	entity.xy = location of entity
+	entity.boxes
+		add box = 
+			box.xy = location of xy, with entity.xy = 0,0
+	entity.speed = 200-300 or so.

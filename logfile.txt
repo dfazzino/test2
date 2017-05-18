@@ -1,0 +1,71 @@
+Opening LogFile
+Opening LogFile
+Starting to add variables!
+Starting to add events!
+~~~event1  test4~~
+	always
+		if  keydown down [1]
+		 move guy 0,3
+------------------------------------------------------------------
+~~~event2  test4~~
+		 start chat hasItem
+------------------------------------------------------------------
+~~~event3  test~~
+	always
+		if  keydown right [2]
+		 move guy 3,0 
+------------------------------------------------------------------
+~~~event4  test~~
+	always
+		if  keydown left [3]
+		 move guy -3,0 
+------------------------------------------------------------------
+~~~event5  test~~
+	always
+		if  keydown up [4]
+		 move guy 0,-3 
+------------------------------------------------------------------
+Starting to add entities!
+~~~entity1  guy~~
+	at 0,0
+	draw type: lovedraw
+	box 1: x 0 y 0 w 200 h 200
+
+------------------------------------------------------------------
+~~~entity2  guy2~~
+	at 500,0
+	draw type: lovedraw
+	box 1: x 500 y 0 w 30 h 30
+
+------------------------------------------------------------------
+~~~entity3  guy3~~
+	at 100,200
+	draw type: lovedraw
+	box 1: x 100 y 200 w 30 h 30
+
+------------------------------------------------------------------
+~~~entity4  guy4~~
+	at 400,400
+	draw type: lovedraw
+	box 1: x 400 y 400 w 200 h 30
+
+------------------------------------------------------------------
+Starting to add buttons!
+~~~entity5  none~~
+	at 0,0
+	draw type: lovedraw
+	box 1: x -40 y -40 w 40 h 40
+
+------------------------------------------------------------------
+~~~entity6  none~~
+	at 0,0
+	draw type: lovedraw
+	box 1: x 0 y 0 w 40 h 40
+
+------------------------------------------------------------------
+~~~entity7  none~~
+	at 0,0
+	draw type: lovedraw
+	box 1: x -40 y 0 w 40 h 40
+
+------------------------------------------------------------------

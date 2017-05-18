@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XmlLuaProjectDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <DocumentRef FileName=".\actions (2).lua" />
+    <DocumentRef FileName=".\actions.lua" />
+    <DocumentRef FileName=".\anim8 (2).lua" />
+    <DocumentRef FileName=".\anim8.lua" />
+    <DocumentRef FileName=".\art (2).lua" />
+    <DocumentRef FileName=".\art.lua" />
+    <DocumentRef FileName=".\buttons (2).lua" />
+    <DocumentRef FileName=".\buttons.lua" />
+    <DocumentRef FileName=".\chats (2).lua" />
+    <DocumentRef FileName=".\chats.lua" />
+    <DocumentRef FileName=".\conf (2).lua" />
+    <DocumentRef FileName=".\conf.lua" />
+    <DocumentRef FileName=".\entities (2).lua" />
+    <DocumentRef FileName=".\entities (Dave-HP's conflicted copy 2017-04-05) (2).lua" />
+    <DocumentRef FileName=".\entities (Dave-HP's conflicted copy 2017-04-05).lua" />
+    <DocumentRef FileName=".\entities.lua" />
+    <DocumentRef FileName=".\events (2).lua" />
+    <DocumentRef FileName=".\events.lua" />
+    <DocumentRef FileName=".\fileutility (2).lua" />
+    <DocumentRef FileName=".\fileutility.lua" />
+    <DocumentRef FileName=".\flux (2).lua" />
+    <DocumentRef FileName=".\flux.lua" />
+    <DocumentRef FileName=".\logic (2).lua" />
+    <DocumentRef FileName=".\logic.lua" />
+    <DocumentRef FileName=".\lovebird (2).lua" />
+    <DocumentRef FileName=".\lovebird.lua" />
+    <DocumentRef FileName=".\main (2).lua" />
+    <DocumentRef FileName=".\main.lua" />
+    <DocumentRef FileName=".\playeractions.lua" />
+    <DocumentRef FileName=".\spec.lua" />
+    <DocumentRef FileName=".\strong.lua" />
+    <DocumentRef FileName=".\ui.lua" />
+    <DocumentRef FileName=".\utility (2).lua" />
+    <DocumentRef FileName=".\utility.lua" />
+    <DocumentRef FileName=".\variables (2).lua" />
+    <DocumentRef FileName=".\variables.lua" />
+  </Documents>
+  <DocumentGroups />
+  <DocumentFolders />
+  <ProjectProperties>
+    <ExternalProgram />
+    <CmdLineArgs />
+    <StartupFileName />
+    <WorkingDir />
+    <UseRemoteMachine>false</UseRemoteMachine>
+    <RemoteMachineName />
+    <BuildOutputDir />
+    <PreBuildEventCmdLine />
+    <PostBuildEventCmdLine />
+  </ProjectProperties>
+</XmlLuaProjectDocument>
